@@ -11,6 +11,7 @@ Senior Software Engineer at Nexus Labs building DeFi infrastructure on [Maverick
 ## Writing
 - [RL Know vs RL Do: Why AI Learned to Act](https://johnpphd.com/coding/rl-know-rl-do) 
 - [SkillsBench: The Skills Advantage](https://johnpphd.com/coding/skillsbench-skills-advantage) 
+- [Why 100 Agents? Skill Engineering in a Production Swarm (Part 2)](https://hackernoon.com/why-i-decided-to-build-100-ai-agents-for-web3) -- HackerNoon
 - [Lessons from Building a 100+ Agent Swarm in Web3](https://hackernoon.com/lessons-from-building-a-100-agent-swarm-in-web3) -- HackerNoon (front page)
 - [5 Rules for Agentic Engineering](https://johnpphd.com/coding/5-rules-for-agentic-engineering)
 - [DRYP: Don't Repeat Your Prompt](https://johnpphd.com/coding/dryp-dont-repeat-your-prompt)
