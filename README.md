@@ -8,7 +8,16 @@ Senior Software Engineer at Nexus Labs building DeFi infrastructure on [Maverick
 
 **[johnpphd.com](https://johnpphd.com)** -- Writing about agentic engineering, AI agent patterns, and lessons from building production agent systems.
 
+**[eslint-plugin-branded-types](https://github.com/johnpphd/eslint-plugin-branded-types)** -- ESLint rules enforcing branded type safety. Bans `as` casts, direct construction, and mutation of Zod branded types.
+
+**[claude-code-skill-statusline](https://github.com/johnpphd/claude-code-skill-statusline)** -- Show which skill is active in your Claude Code statusline, with session isolation for multi-session projects.
+
+**[TipNote](https://github.com/johnpphd/tipnote)** -- A Notion-like collaborative document editor built with React, TipTap, and Firebase. Includes an MCP server for AI integration.
+
+**[IsThisPersonAScam.com](https://isthispersonascam.com)** -- AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
+
 ## Writing
+- [Ship Types, Not Markdown](https://johnpphd.com/coding/ship-types-not-markdown)
 - [RL Know vs RL Do: Why AI Learned to Act](https://johnpphd.com/coding/rl-know-rl-do) 
 - [SkillsBench: The Skills Advantage](https://johnpphd.com/coding/skillsbench-skills-advantage) 
 - [Why 100 Agents? Skill Engineering in a Production Swarm (Part 2)](https://hackernoon.com/why-i-decided-to-build-100-ai-agents-for-web3) -- HackerNoon
