@@ -17,6 +17,8 @@ Senior Software Engineer at Nexus Labs building DeFi infrastructure on [Maverick
 **[IsThisPersonAScam.com](https://isthispersonascam.com)** — AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
 
 ## Writing
+- [The Evolution of AI Users](https://johnpphd.com/coding/evolution-of-ai-users)
+- [You Think You're in Control?](https://johnpphd.com/coding/you-think-youre-in-control)
 - [Ship Types, Not Markdown](https://johnpphd.com/coding/ship-types-not-markdown)
 - [RL Know vs RL Do: Why AI Learned to Act](https://johnpphd.com/coding/rl-know-rl-do)
 - [SkillsBench: The Skills Advantage](https://johnpphd.com/coding/skillsbench-skills-advantage)
