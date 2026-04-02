@@ -17,6 +17,10 @@ Senior Software Engineer at Nexus Labs building DeFi infrastructure on [Maverick
 **[IsThisPersonAScam.com](https://isthispersonascam.com)** — AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
 
 ## Writing
+- [The Illusion of Control: Building a 100+ Agent Swarm in Web3 (Part 3)](https://hackernoon.com/the-illusion-of-control-building-a-100-agent-swarm-in-web3-part-3) — HackerNoon
+- [You Are Part of the Harness](https://johnpphd.com/coding/you-are-part-of-the-harness)
+- [Every Senior Developer Believes in DRY](https://johnpphd.com/coding/every-senior-developer-believes-in-dry)
+- [Your Agents Violate Your Principles](https://johnpphd.com/coding/your-agents-violate-your-principles)
 - [The Illusion of Control](https://johnpphd.com/coding/the-illusion-of-control)
 - [The Evolution of AI Users](https://johnpphd.com/coding/evolution-of-ai-users)
 - [You Think You're in Control?](https://johnpphd.com/coding/you-think-youre-in-control)
