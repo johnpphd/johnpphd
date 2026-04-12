@@ -17,6 +17,8 @@ Senior Software Engineer at Nexus Labs. Built and own the full stack for [Maveri
 **[IsThisPersonAScam.com](https://isthispersonascam.com)** — AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
 
 ## Writing
+- [Five Theories of Agent Skills](https://johnpphd.com/coding/five-theories-of-agent-skills)
+- [The Spec Is the Hard Part](https://johnpphd.com/coding/spec-is-the-hard-part)
 - [The Illusion of Control: Building a 100+ Agent Swarm in Web3 (Part 3)](https://hackernoon.com/the-illusion-of-control-building-a-100-agent-swarm-in-web3-part-3) — HackerNoon
 - [You Are Part of the Harness](https://johnpphd.com/coding/you-are-part-of-the-harness)
 - [Every Senior Developer Believes in DRY](https://johnpphd.com/coding/every-senior-developer-believes-in-dry)
@@ -25,6 +27,8 @@ Senior Software Engineer at Nexus Labs. Built and own the full stack for [Maveri
 - [The Evolution of AI Users](https://johnpphd.com/coding/evolution-of-ai-users)
 - [You Think You're in Control?](https://johnpphd.com/coding/you-think-youre-in-control)
 - [Ship Types, Not Markdown](https://johnpphd.com/coding/ship-types-not-markdown)
+- [Context Rot and Beads](https://johnpphd.com/coding/context-rot-and-beads)
+- [Person Risk Analyzer in 10 Minutes](https://johnpphd.com/coding/person-risk-analyzer-in-10-minutes)
 - [RL Know vs RL Do: Why AI Learned to Act](https://johnpphd.com/coding/rl-know-rl-do)
 - [SkillsBench: The Skills Advantage](https://johnpphd.com/coding/skillsbench-skills-advantage)
 - [Why I Decided to Build 100+ AI Agents for Web3](https://hackernoon.com/why-i-decided-to-build-100-ai-agents-for-web3) — HackerNoon
