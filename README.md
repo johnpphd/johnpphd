@@ -1,6 +1,6 @@
 # John Pearson
 
-Senior Software Engineer at Nexus Labs building DeFi infrastructure on [Maverick Protocol](https://www.mav.xyz). PhD Mathematics (Georgia Tech). Former department chair and teacher for 15 years. Head rowing coach — #1 nationally ranked masters women's program (2025).
+Senior Software Engineer at Nexus Labs. Built and own the full stack for [Maverick Protocol](https://www.mav.xyz), a DeFi trading platform that processed $1B+ in weekly volume at peak. PhD Mathematics (Georgia Tech). Former department chair and teacher for 15 years. Head rowing coach, #1 nationally ranked masters women's program (2025).
 
 ## What I'm working on
 
