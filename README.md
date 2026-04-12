@@ -27,8 +27,6 @@ Senior Software Engineer at Nexus Labs. Built and own the full stack for [Maveri
 - [The Evolution of AI Users](https://johnpphd.com/coding/evolution-of-ai-users)
 - [You Think You're in Control?](https://johnpphd.com/coding/you-think-youre-in-control)
 - [Ship Types, Not Markdown](https://johnpphd.com/coding/ship-types-not-markdown)
-- [Context Rot and Beads](https://johnpphd.com/coding/context-rot-and-beads)
-- [Person Risk Analyzer in 10 Minutes](https://johnpphd.com/coding/person-risk-analyzer-in-10-minutes)
 - [RL Know vs RL Do: Why AI Learned to Act](https://johnpphd.com/coding/rl-know-rl-do)
 - [SkillsBench: The Skills Advantage](https://johnpphd.com/coding/skillsbench-skills-advantage)
 - [Why I Decided to Build 100+ AI Agents for Web3](https://hackernoon.com/why-i-decided-to-build-100-ai-agents-for-web3) — HackerNoon
