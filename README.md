@@ -1,6 +1,6 @@
 # John Pearson
 
-Senior Software Engineer at Nexus Labs. Primary engineer for [Maverick Protocol](https://www.mav.xyz), a DeFi trading platform (80K peak DAU, ~3M users, $70B+ cumulative volume, 6 chains). Over 4 years I progressed from team contributor to sole owner of the V2 stack (98% of API, 73% of frontend), shipping 4,226 commits across 12 repos, 121 production releases, and 3 additional stealth DeFi products. PhD Mathematics (Georgia Tech). Former department chair and teacher for 15 years. Head rowing coach, #1 nationally ranked masters women's program (2025).
+Senior Software Engineer at Nexus Labs. Primary engineer for [Maverick Protocol](https://www.mav.xyz), a DeFi trading platform (80K peak DAU, ~3M users, $70B+ cumulative volume, 6 chains). Over 4 years I progressed from team contributor to sole owner of the V2 stack (98% of API, 73% of frontend), shipping 4,226 commits across 12 repos, 121 production releases, and 3 additional DeFi products. PhD Mathematics (Georgia Tech). Former department chair and teacher for 15 years. Head rowing coach, #1 nationally ranked masters women's program (2025).
 
 ## What I'm working on
 
