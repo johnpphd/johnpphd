@@ -17,6 +17,7 @@ Senior Software Engineer at Nexus Labs. Primary engineer for [Maverick Protocol]
 **[IsThisPersonAScam.com](https://isthispersonascam.com)** — AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
 
 ## Writing
+- [Build the Demo, Skip the Deck. Then Delete Half of What You Built.](https://johnpphd.com/coding/build-the-demo-skip-the-deck)
 - [Five Theories of Agent Skills](https://johnpphd.com/coding/five-theories-of-agent-skills)
 - [The Spec Is the Hard Part](https://johnpphd.com/coding/spec-is-the-hard-part)
 - [The Illusion of Control: Building a 100+ Agent Swarm in Web3 (Part 3)](https://hackernoon.com/the-illusion-of-control-building-a-100-agent-swarm-in-web3-part-3) — HackerNoon
