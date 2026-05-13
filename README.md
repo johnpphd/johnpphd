@@ -8,6 +8,8 @@ Senior Software Engineer at Nexus Labs. Primary engineer for [Maverick Protocol]
 
 **[johnpphd.com](https://johnpphd.com)** — Writing about agentic engineering, AI agent patterns, and lessons from building production agent systems.
 
+**[eslint-plugin-harness-guardrails](https://github.com/johnpphd/eslint-plugin-harness-guardrails)** — ESLint rules that catch the failure modes AI is fastest at producing: components with too many hooks, dispatchers with too many branches, positional data leaking across boundaries.
+
 **[eslint-plugin-branded-types](https://github.com/johnpphd/eslint-plugin-branded-types)** — ESLint rules enforcing branded type safety. Bans `as` casts, direct construction, and mutation of Zod branded types.
 
 **[claude-code-skill-statusline](https://github.com/johnpphd/claude-code-skill-statusline)** — Show which skill is active in your Claude Code statusline, with session isolation for multi-session projects.
@@ -17,6 +19,11 @@ Senior Software Engineer at Nexus Labs. Primary engineer for [Maverick Protocol]
 **[IsThisPersonAScam.com](https://isthispersonascam.com)** — AI-powered scam detection. Paste a LinkedIn profile or message, get a risk verdict in seconds.
 
 ## Writing
+- [Failures Become Guardrails](https://johnpphd.com/coding/failures-become-guardrails)
+- [Real Programmers Don't Use AI](https://johnpphd.com/coding/real-programmers-dont-use-ai)
+- [Deterministic Scaffolding](https://johnpphd.com/coding/deterministic-scaffolding)
+- [AI Is Not Logical](https://johnpphd.com/coding/ai-is-not-logical)
+- [Speed Is Not Velocity](https://johnpphd.com/coding/speed-is-not-velocity)
 - [Build the Demo, Skip the Deck. Then Delete Half of What You Built.](https://johnpphd.com/coding/build-the-demo-skip-the-deck)
 - [Five Theories of Agent Skills](https://johnpphd.com/coding/five-theories-of-agent-skills)
 - [The Spec Is the Hard Part](https://johnpphd.com/coding/spec-is-the-hard-part)
